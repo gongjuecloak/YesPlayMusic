@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/api/:match*",
-      "destination": "https://wp.gjcloak.xyz/:match*"
+      "destination": "https://netease-cloud-music-api-livid-seven-41.vercel.app/:match*"
     }
   ]
 }
